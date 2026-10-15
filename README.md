@@ -8,8 +8,6 @@ I'm a developer passionate about building modern, scalable, and user-focused web
 
 **Languages:** JavaScript, TypeScript
 
-**Frontend:** HTML, CSS, React.js, Next.js, Tailwind CSS, Bootstrap
-
 **Backend:** Node.js, Express.js, REST APIs, WebSockets
 
 **Databases:** PostgreSQL, MongoDB, MySQL, Firebase
