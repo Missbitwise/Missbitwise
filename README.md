@@ -16,8 +16,6 @@ I'm a developer passionate about building modern, scalable, and user-focused web
 
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel, Netlify, Render
 
-**Currently Exploring:** Data Structures & Algorithms, Backend Architecture, System Design
-
 ---
 
 *Building, learning, and growing as a developer.*
