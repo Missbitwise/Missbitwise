@@ -6,13 +6,12 @@ I'm a developer passionate about building modern, scalable, and user-focused web
 
 ### 💻 Tech Stack
 
-**Languages:** JavaScript, TypeScript
-
-**Backend:** Node.js, Express.js, REST APIs, WebSockets
-
-**Databases:** PostgreSQL, MongoDB, MySQL, Firebase
-
-**Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel, Netlify, Render
+* **Languages:** JavaScript, TypeScript, C++[cite: 1]
+* **Backend:** Node.js, Express.js, REST APIs, WebSockets, Socket.IO, JWT, OAuth, Redis[cite: 1]
+* **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Zustand, Framer Motion[cite: 1]
+* **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, node-postgres (pg)[cite: 1]
+* **Cloud & DevOps:** AWS, Docker, CI/CD (GitHub Actions), Render, Netlify[cite: 1]
+* **Tools:** Git, GitHub, VS Code, Postman, Firebase, ImageKit, PgVector, BullMQ[cite: 1]
 
 ---
 
